@@ -63,7 +63,7 @@
 /* hero image*/
 .hero{
     height: 400px;
-    background-image: url("../image/topi.jpg");
+    background-image: url("../images/topi.jpg");
     background-size: cover;
     background-position: left;
     display: flex;
